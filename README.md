@@ -1,6 +1,8 @@
 # FlappyBirdAI 
 Using NEAT Python to learn to play Flappy Bird. This code uses search and optimise technique called genetic algorithm which creates a particular number of random configurations, the best configuration of them is used to create the next generation of neural networks, as we repeat the process, again and again, we observe that the performance gets better. 
 
+We can improve accuracy of the program by inceasing the number of testcases. The reason being that the program will get chance to gain more accurace as it proceeds.(So here's the scope for improvement in the program)
+
 # NEAT Python
 Here is the documentation for the genetic module : https://neat-python.readthedocs.io/en/latest/
 
